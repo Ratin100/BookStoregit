@@ -1,0 +1,24 @@
+C:\Users\RazinRatin\Downloads\Compressed\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky.Models\bin\Debug\net8.0\BookStore.Models.deps.json
+C:\Users\RazinRatin\Downloads\Compressed\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky.Models\bin\Debug\net8.0\BookStore.Models.dll
+C:\Users\RazinRatin\Downloads\Compressed\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky.Models\bin\Debug\net8.0\BookStore.Models.pdb
+C:\Users\RazinRatin\Downloads\Compressed\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky.Models\obj\Debug\net8.0\BookStore.Models.csproj.AssemblyReference.cache
+C:\Users\RazinRatin\Downloads\Compressed\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky.Models\obj\Debug\net8.0\BookStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RazinRatin\Downloads\Compressed\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky.Models\obj\Debug\net8.0\BookStore.Models.AssemblyInfoInputs.cache
+C:\Users\RazinRatin\Downloads\Compressed\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky.Models\obj\Debug\net8.0\BookStore.Models.AssemblyInfo.cs
+C:\Users\RazinRatin\Downloads\Compressed\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky.Models\obj\Debug\net8.0\BookStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\RazinRatin\Downloads\Compressed\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky.Models\obj\Debug\net8.0\BookStore.Models.dll
+C:\Users\RazinRatin\Downloads\Compressed\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky.Models\obj\Debug\net8.0\refint\BookStore.Models.dll
+C:\Users\RazinRatin\Downloads\Compressed\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky.Models\obj\Debug\net8.0\BookStore.Models.pdb
+C:\Users\RazinRatin\Downloads\Compressed\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky.Models\obj\Debug\net8.0\ref\BookStore.Models.dll
+C:\Users\Touch and Solve\Downloads\BookStore\BookStore\BookStore.Models\bin\Debug\net8.0\BookStore.Models.deps.json
+C:\Users\Touch and Solve\Downloads\BookStore\BookStore\BookStore.Models\bin\Debug\net8.0\BookStore.Models.dll
+C:\Users\Touch and Solve\Downloads\BookStore\BookStore\BookStore.Models\bin\Debug\net8.0\BookStore.Models.pdb
+C:\Users\Touch and Solve\Downloads\BookStore\BookStore\BookStore.Models\obj\Debug\net8.0\BookStore.Models.csproj.AssemblyReference.cache
+C:\Users\Touch and Solve\Downloads\BookStore\BookStore\BookStore.Models\obj\Debug\net8.0\BookStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Touch and Solve\Downloads\BookStore\BookStore\BookStore.Models\obj\Debug\net8.0\BookStore.Models.AssemblyInfoInputs.cache
+C:\Users\Touch and Solve\Downloads\BookStore\BookStore\BookStore.Models\obj\Debug\net8.0\BookStore.Models.AssemblyInfo.cs
+C:\Users\Touch and Solve\Downloads\BookStore\BookStore\BookStore.Models\obj\Debug\net8.0\BookStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\Touch and Solve\Downloads\BookStore\BookStore\BookStore.Models\obj\Debug\net8.0\BookStore.Models.dll
+C:\Users\Touch and Solve\Downloads\BookStore\BookStore\BookStore.Models\obj\Debug\net8.0\refint\BookStore.Models.dll
+C:\Users\Touch and Solve\Downloads\BookStore\BookStore\BookStore.Models\obj\Debug\net8.0\BookStore.Models.pdb
+C:\Users\Touch and Solve\Downloads\BookStore\BookStore\BookStore.Models\obj\Debug\net8.0\ref\BookStore.Models.dll
